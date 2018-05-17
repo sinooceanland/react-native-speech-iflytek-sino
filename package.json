@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-speech-iflytek@0.1.2",
+        "scope": null,
+        "escapedName": "react-native-speech-iflytek",
+        "name": "react-native-speech-iflytek",
+        "rawSpec": "0.1.2",
+        "spec": "0.1.2",
+        "type": "version"
+      },
+      "/Users/md313/Documents/NewOfficeApp"
+    ]
+  ],
+  "_cnpm_publish_time": 1497357412772,
+  "_from": "react-native-speech-iflytek@0.1.2",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-speech-iflytek@0.1.2",
+  "_inCache": true,
+  "_location": "/react-native-speech-iflytek",
+  "_nodeVersion": "8.1.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-speech-iflytek-0.1.2.tgz_1497357412546_0.4300959720276296"
+  },
+  "_npmUser": {
+    "name": "zphhhhh",
+    "email": "zphhhhh@gmail.com"
+  },
+  "_npmVersion": "5.0.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-speech-iflytek@0.1.2",
+    "scope": null,
+    "escapedName": "react-native-speech-iflytek",
+    "name": "react-native-speech-iflytek",
+    "rawSpec": "0.1.2",
+    "spec": "0.1.2",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-speech-iflytek/download/react-native-speech-iflytek-0.1.2.tgz",
+  "_shasum": "db1d5be9998b3faa61b57a0d6e84f7e8a5fde2f4",
+  "_shrinkwrap": null,
+  "_spec": "react-native-speech-iflytek@0.1.2",
+  "_where": "/Users/md313/Documents/NewOfficeApp",
+  "author": {
+    "name": "zphhhhh"
+  },
+  "bugs": {
+    "url": "https://github.com/zphhhhh/react-native-speech-iflytek/issues"
+  },
+  "dependencies": {},
+  "description": "Speech module based on iflytekSpeech for react native",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "db1d5be9998b3faa61b57a0d6e84f7e8a5fde2f4",
+    "size": 6033060,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-speech-iflytek/download/react-native-speech-iflytek-0.1.2.tgz"
+  },
+  "gitHead": "8d92a8004eb7a73754483b9f8cd521a3e614f65d",
+  "homepage": "https://github.com/zphhhhh/react-native-speech-iflytek#readme",
+  "keywords": [
+    "speech"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "zphhhhh",
+      "email": "zphhhhh@gmail.com"
+    }
+  ],
+  "name": "react-native-speech-iflytek",
+  "optionalDependencies": {},
+  "publish_time": 1497357412772,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zphhhhh/react-native-speech-iflytek.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.2"
+}
