@@ -174,7 +174,7 @@
 +(NSString*)SAMPLE_RATE;
 
 /*!
- *  合成、识别、唤醒、评测、声纹等业务采样率。
+ *  合成、识别、唤醒、声纹等业务采样率。
  *
  *  @return 合成及识别采样率8K Value。
  */
@@ -594,6 +594,13 @@
  *  @return 唤醒工作方式key
  */
 +(NSString*)KEEP_ALIVE;
+
+/*!
+ *  唤醒录音保存路径
+ *
+ *  @return 唤醒录音保存路径key
+ */
++(NSString*) IVW_AUDIO_PATH;
 
 #pragma mark -  评测相关设置key
 /*!

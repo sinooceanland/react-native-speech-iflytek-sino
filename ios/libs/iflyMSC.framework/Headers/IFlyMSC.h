@@ -10,7 +10,6 @@
 #define MSC_IFlyMSC_h
 
 #import "IFlyAudioSession.h"
-#import "IFlyContact.h"
 #import "IFlyDataUploader.h"
 #import "IFlyDebugLog.h"
 #import "IFlyISVDelegate.h"
