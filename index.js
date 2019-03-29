@@ -2,6 +2,7 @@
 import React, { NativeModules } from "react-native";
 
 module.exports = {
-  Recognizer: NativeModules.SpeechRecognizerModule,
-  Synthesizer: NativeModules.SpeechSynthesizerModule
+    SpeechConstant: NativeModules.SpeechConstantModule,
+    Recognizer: NativeModules.SpeechRecognizerModule,
+    Synthesizer: NativeModules.SpeechSynthesizerModule
 };
